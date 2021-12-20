@@ -1,0 +1,21 @@
+﻿Current Date/Time: 09/09/2021 09:27 PM
+The time in second now: 40
+Current Date/Time: 09/09/2021 09:27 PM
+
+The inputs are empty.
+
+The second vehicle is missing.
+
+The Hamming distance between VEH00 and VEH01 is 1; between VEH00 and VEH11 is 2.
+For VEH01: Number of vehicles of Hamming Distance 1: 17.
+For VEH11: Number of vehicles of Hamming Distance 2: 80.
+
+The Hamming distance between VEH00 and VEH20 is 1; between VEH00 and 02HEV is 4.
+For VEH20: Number of vehicles of Hamming Distance 1: 17.
+For 02HEV: Number of vehicles of Hamming Distance 4: 99.
+
+The Hamming distance between VEH00 and VEH11 is 2; between VEH00 and VEH20 is 1.
+For VEH11: Number of vehicles of Hamming Distance 2: 80.
+For VEH20: Number of vehicles of Hamming Distance 1: 17.
+
+Number of vehicles ended with zero: 9
